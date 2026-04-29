@@ -1,5 +1,8 @@
 # Mécanismes_Cryptographiques
-Mettre en œuvre des mécanismes cryptographiques dans un SI
+
+Brief de l'ecole Simplon 
+
+"Mettre en œuvre des mécanismes cryptographiques dans un SI"
 
 Contexte du projet
 
@@ -19,3 +22,9 @@ Dans ce cadre, plusieurs expérimentations sont réalisées :
     mise en place d’une authentification par clé SSH pour sécuriser les accès
 
 Ces travaux permettent de relier les concepts théoriques (confidentialité, intégrité, authentification) aux usages concrets en entreprise (HTTPS, VPN, SSH, certificats, PKI).
+
+## Réponses des TPs dans :
+- Réponses_TP1
+- Réponses_TP2
+- Réponses_TP3
+- Réponses_TP4
